@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ <link rel="icon" href="favicon.ico" type="image/x-icon">
+<meta charset="UTF-8">
+<title>МИР ГРЕЧКИ</title>
+</head>
+<table cellspacign="20">
+<tr>
+<td>
+<img src="https://zernokorm.biz/wp-content/uploads/2020/09/d1f0ef894674947d84da6f3ca03c5af1.jpg" widht="200">  
+</td>
+<td>
+ <h1>Добро пожаловать в мир гречки!</h1>
+ <p><em><strong>Гречка, или греча</strong> — крупа из гречихи посевной, а также каша из этой крупы</em></p>
+<p><em>Гречка уже давно стала для россиян «национальным» продуктом. Хотя выращивать эту культуру начали гораздо раньше, чем она попала к нам. О полезных свойствах гречневой крупы знает как народная, так и классическая медицина. </em></p>
+</td>
+</tr>
+</table>
+<hr color="grey" size="5"/>
+<hr>
+<P><h1>История гречки</h1></P>  
+<p>Гречка распространена по всему миру, и считается древней культурой. Ее родиной является Индия и Непал, где гречку начали специально выращивать 4 тысячи лет назад. Далее гречневая крупа была завезена в Азию, распространилась на Ближнем Востоке и попала в Европу примерно в XVI веке. </p>
+<hr>
+<p><H2>Польза гречки</H2></p>
+<ul type="circle"> 
+ <li>Гречка способствует очищению организма от вредных веществ</li>
+ <li>оказывает антиоксидантное действие, повышает сопротивляемость организма</li>
+ <li> Контроль сахара в крови</li>
+ <li>Витамины группы B, фосфолипиды, аминокислоты метионин</li>
+<li> аргинин и треонин способствуют улучшению липидного обмена </li>
+  <hr>
+<p>Ссылка на более полное содежание :
+<ul>
+<li><a href="https://www.championat.com/lifestyle/article-4092211-pochemu-grechka-polezna-dlja-zdorovja-i-dolgoletija-unikalnye-svojstva-caricy-krup.html">https://www.championat.com/lifestyle/article-4092211-pochemu-grechka-polezna-dlja-zdorovja-i-dolgoletija-unikalnye-svojstva-caricy-krup.html</a></li>
+Ссылка на магазин в котором , вы сможете преобрести это чудо природы:
+<ul>
+<li><a href="https://bel.vkusvill.ru/goods/krupa-grechnevaya-yadritsa-900-g-17699.html">https://bel.vkusvill.ru/goods/krupa-grechnevaya-yadritsa-900-g-17699.html</a></li>  
+</ul>
+</p>
+<table border="2">
+<thead>
+<tr>
+    <hr>
+<th cosplan="2">Пищевая ценность и химический состав "Гречневая крупа ядрица"</th>
+</tr>
+</thead>
+<tr>
+<td>Нутриент</td>
+<td>Кол-во</td>
+<td>% от Нормы в 100 г </td>
+</tr>   
+<tr>
+<td>Калорийность</td>
+<td>308 кКал</td>
+<td>18.3%</td>
+</tr>
+<tr>
+<td>Белки</td>
+<td>12.6г</td>
+<td>16.6%</td>
+</tr>
+<tr>
+<td>Жиры</td>
+<td>3.3г</td>
+<td>5.9%</td>
+</tr>
+<tr>
+<td>Углеводы</td>
+<td>57.1г</td>
+<td>26.1%</td>
+</tr>
+</table>
+<p><h2>Вопросы</h2></p>
+<h3>Елси остались какието вопросы то пишите их сюда:</h3>
+<form action="SUPPORT.html">
+<label  for="name"> Ваше имя:</label>
+<input type="text" id="name" placeholder=" Ваше имя...">
+<br>
+<label  for="ip">Ваш ip:</label>
+<input type="text" id="ip" placeholder=" Ваш ip...">
+<br>
+<label  for="вопрос">Ваш вопрос:</label>
+<br>
+<textarea id="вопрос" rows="2" cols="15"></textarea>
+<br>
+<input type="submit" value="гречневый вопрос">
+</form>
+</body>
+</html>
